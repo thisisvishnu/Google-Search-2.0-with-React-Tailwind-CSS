@@ -1,6 +1,6 @@
 This is the project of creating a clone of google search using popular Javascript library and popular css framework .
 This interactive search engine clone is developed using API available in  Rapid API hub .
-URL of API=>
+URL of API=> 'https://google-search3.p.rapidapi.com/api/v1'
 
 
 
